@@ -1,10 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Recreating Instagram Initial Page
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+This is part of DIO (Digital Innovation One) training course for HTML and CSS.
 
-### Os requisitos são:
+This repository was cloned from Gabriela Pinheiro (SpruceGabriela).
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
